@@ -12,7 +12,7 @@ import tempfile
 st.set_page_config(page_title="NetCure.ai – Multi-Drug Predictions", layout="wide")
 
 # Logo
-st.image("/Users/nikitapatil/Downloads/netcure_mac_ready/app/net_logo.png", width=350)
+st.image("net_logo.png", width=350)
 
 st.title("NetCure.ai – Multi-Drug Target Predictions")
 st.subheader("Drug Repositioning Predictions using Network-based AI")
