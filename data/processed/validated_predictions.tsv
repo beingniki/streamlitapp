@@ -1,0 +1,13 @@
+Drug	Drug_Name	Disease	Disease_Name	Confidence	PubMed_ID	Title
+CIDm91758004	Metformin	9606.ENSP00000257254	Prostate Cancer Protein	0.92	30894482	Metformin reduces proliferation
+CIDm91758004	Metformin	9606.ENSP00000266517	Valproic Acid Target Protein	0.75	0	
+CIDm91758005	Hydroxychloroquine	9606.ENSP00000284320	Hydroxychloroquine Immune Target	0.83	11157360	Hydroxychloroquine modulates immunity
+CIDm91758005	Hydroxychloroquine	9606.ENSP00000286186	Immune Activation Protein	0.7	0	
+CIDm91758006	Levodopa	9606.ENSP00000235329	Parkinson's Dopamine Protein	0.88	194744	Levodopa restores dopamine
+CIDm91758006	Levodopa	9606.ENSP00000263969	Parkinson's Mitochondrial Protein	0.72	0	
+CIDm91758007	Simvastatin	9606.ENSP00000270747	APP Protein (Alzheimer’s)	0.8	25416470	Simvastatin modulates APP
+CIDm91758007	Simvastatin	9606.ENSP00000296805	APP Duplicate Protein	0.74	0	
+CIDm91758008	Imatinib	9606.ENSP00000259791	BCR-ABL Tyrosine Kinase Protein	0.77	11231525	Imatinib blocks BCR-ABL
+CIDm91758008	Imatinib	9606.ENSP00000262366	Unknown Kinase Z Protein	0.65	0	
+CIDm91758009	Tamoxifen	9606.ENSP00000221740	Estrogen Receptor Protein (Breast Cancer)	0.79	10561331	Tamoxifen binds ER+ receptor
+CIDm91758009	Tamoxifen	9606.ENSP00000265164	Immune Suppression Protein	0.68	0	
