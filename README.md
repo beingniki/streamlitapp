@@ -41,4 +41,4 @@ This project predicts potential drug repositioning opportunities by modeling bio
 
 ## ✉️ Contact
 
-For questions or feature requests, use the contact form in the app or email: your.email@example.com
+For questions or feature requests, use the contact form in the app or email: thematureink@gmail.com
